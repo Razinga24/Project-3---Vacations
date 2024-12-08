@@ -1,0 +1,27 @@
+.EditVacation {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 2rem;
+    overflow: auto;
+    padding: .5rem;
+}
+
+.EditVacation p.MuiFormHelperText-root {
+    color: red;
+    position: absolute;
+    bottom: -3px;
+
+}
+
+.EditVacation .form-control {
+    position: relative;
+    padding-bottom: 10px;
+}
+
+.EditVacation img {
+
+    width: 100%;
+    object-fit: cover;
+    height: 150px;
+}

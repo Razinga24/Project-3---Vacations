@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+html, body, #root {
+    margin: 0;
+    height: 100%;
+    font-family: 'Poppins', 'Times New Roman', Times, serif;
+    background-color: white;
+}

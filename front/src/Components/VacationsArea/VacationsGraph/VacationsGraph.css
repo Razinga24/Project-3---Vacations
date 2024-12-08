@@ -1,0 +1,12 @@
+.VacationsGraph {
+    width: 90%;
+    flex-direction: column;
+    margin: auto;
+
+}
+
+.VacationsGraph .graph {
+
+    display: flex;
+    justify-content: end;
+}

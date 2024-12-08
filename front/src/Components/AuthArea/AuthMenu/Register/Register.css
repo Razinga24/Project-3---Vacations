@@ -1,0 +1,8 @@
+.Register {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 2rem;
+    overflow: auto;
+    padding: .5rem;
+}

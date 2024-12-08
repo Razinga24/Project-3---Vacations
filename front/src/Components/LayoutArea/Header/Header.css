@@ -1,0 +1,19 @@
+nav .navBar {
+    color: white;
+    text-decoration: none;
+}
+
+nav .hamburgerNavbar {
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+
+a {
+    text-decoration: unset;
+}
+
+.Header {
+    user-select: none;
+
+}

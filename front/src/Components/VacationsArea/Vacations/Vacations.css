@@ -1,0 +1,29 @@
+.Vacations {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1800px;
+    margin: auto;
+    padding-top: 2rem;
+    user-select: none;
+    gap: 2rem;
+}
+
+.Vacations .cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(500px, auto));
+    justify-content: center;
+    gap: 2rem;
+    padding: 0rem 1rem;
+}
+
+.Vacations .pagination {
+    margin-top: 2rem;
+    margin-bottom: 1.7rem;
+}
+
+.Vacations .inputCss {
+    display: flex;
+    gap: 2rem;
+}

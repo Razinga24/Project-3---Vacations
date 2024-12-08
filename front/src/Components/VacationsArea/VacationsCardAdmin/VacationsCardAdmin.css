@@ -1,0 +1,13 @@
+.VacationCardAdmin {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.VacationCardAdmin .date {
+    background-color: rgb(212, 231, 240);
+}
+
+.VacationCardAdmin .CardBtn button {
+    width: 100%;
+}

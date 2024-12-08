@@ -1,0 +1,30 @@
+div .VacationsAdmin {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1800px;
+    margin: auto;
+    padding-top: 2rem;
+    gap: 1rem;
+    user-select: none;
+
+}
+
+
+.VacationsAdmin .cards {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    padding: 0rem 1rem;
+
+}
+
+
+.VacationsAdmin .pagination {
+
+    margin-top: 2rem;
+    margin-bottom: 1.7rem;
+}

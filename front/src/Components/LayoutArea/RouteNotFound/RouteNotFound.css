@@ -1,0 +1,12 @@
+.RouteNotFound {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+
+    img {
+        width: 700px;
+        height: auto;
+        object-fit: contain;
+    }
+}

@@ -1,0 +1,22 @@
+.AddVacation {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 2rem;
+    overflow: auto;
+    padding: .5rem;
+}
+
+
+.AddVacation p.MuiFormHelperText-root {
+    color: red;
+    position: absolute;
+    bottom: -3px;
+
+}
+
+
+.AddVacation .form-control {
+    position: relative;
+    padding-bottom: 10px;
+}

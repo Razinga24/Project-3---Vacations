@@ -1,0 +1,11 @@
+.Layout {
+    height: 100%;
+    display: grid;
+    grid-template-rows: 5% 1fr 5%;
+    overflow-y: auto;
+}
+
+.Layout>main {
+    padding: 1.8rem 0 1.8rem;
+    box-sizing: border-box;
+}

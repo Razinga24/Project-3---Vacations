@@ -1,0 +1,12 @@
+.AuthMenu a {
+    text-decoration: unset;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+
+.AuthMenu .link {
+    font-weight: bolder;
+    cursor: pointer;
+}

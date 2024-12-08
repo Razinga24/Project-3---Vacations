@@ -1,0 +1,20 @@
+.VacationsCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.VacationsCard .like {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(212, 231, 240);
+}
+
+.VacationsCard .CardBtn button {
+    width: 100%;
+}
+
+
+.textWrap {
+    word-break: break-word;
+}
